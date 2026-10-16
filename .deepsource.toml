@@ -12,3 +12,6 @@ name = "shell"
 [[analyzers]]
 name = "sql"
 
+[[analyzers]]
+name = "secrets"
+
